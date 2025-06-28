@@ -1,0 +1,226 @@
+{
+  "common": {
+    "loading": "लोड हुँदैछ...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "warning": "चेतावनी",
+    "info": "जानकारी",
+    "confirm": "पुष्टि गर्नुहोस्",
+    "cancel": "रद्द गर्नुहोस्",
+    "ok": "ठिक छ",
+    "try_again": "फेरि प्रयास गर्नुहोस्",
+    "view_all": "सबै हेर्नुहोस्",
+    "show_more": "थप देखाउनुहोस्",
+    "price": "मूल्य",
+    "total": "कुल",
+    "quantity": "मात्रा",
+    "buy_now": "अहिले किन्नुहोस्",
+    "status": "स्थिति",
+    "filters": "फिल्टरहरू"
+  },
+  "header": {
+    "home": "गृहपृष्ठ",
+    "shop": "दुकान",
+    "about": "हाम्रोबारे",
+    "contact": "सम्पर्क",
+    "blog": "ब्लग",
+    "categories": "श्रेणीहरू",
+    "brands": "ब्रान्डहरू",
+    "search_placeholder": "जुत्ता खोज्नुहोस् (उदा. Nike, Adidas)",
+    "account": "खाता",
+    "install_app": "एप स्थापना गर्नुहोस्"
+  },
+  "auth": {
+    "welcome": "स्वागत छ",
+    "welcome_back": "फेरि स्वागत छ",
+    "login": "लगइन गर्नुहोस्",
+    "register": "दर्ता गर्नुहोस्",
+    "logout": "लगआउट गर्नुहोस्",
+    "forgot_password": "पासवर्ड बिर्सनुभयो?",
+    "reset_password": "पासवर्ड रिसेट गर्नुहोस्",
+    "send_reset_link": "रिसेट लिंक पठाउनुहोस्",
+    "new_password": "नयाँ पासवर्ड",
+    "confirm_new_password": "नयाँ पासवर्ड पुष्टि गर्नुहोस्"
+  },
+  "account": {
+    "profile": "प्रोफाइल",
+    "settings": "सेटिङहरू",
+    "update_profile": "प्रोफाइल अपडेट गर्नुहोस्",
+    "change_password": "पासवर्ड परिवर्तन गर्नुहोस्",
+    "delete_account": "खाता मेटाउनुहोस्",
+    "account_settings": "खाता सेटिङहरू",
+    "security": "सुरक्षा",
+    "privacy": "गोपनीयता",
+    "notifications_settings": "सूचना सेटिङहरू",
+    "account_created": "खाता सिर्जना गरिएको छ।",
+    "account_updated": "खाता अपडेट गरिएको छ।",
+    "password_changed": "पासवर्ड सफलतापूर्वक परिवर्तन गरिएको छ।"
+  },
+  "product": {
+    "product": "उत्पादन",
+    "details": "उत्पादन विवरण",
+    "category": "श्रेणी",
+    "brand": "ब्रान्ड",
+    "description": "विवरण",
+    "reviews": "समिक्षा",
+    "ratings": "रेटिङहरू",
+    "related_products": "सम्बन्धित उत्पादनहरू",
+    "out_of_stock": "स्टकमा छैन",
+    "view_details": "विवरण हेर्नुहोस्",
+    "size": "साइज",
+    "color": "रंग",
+    "material": "सामग्री",
+    "sole_type": "सोल प्रकार",
+    "available_sizes": "उपलब्ध साइजहरू",
+    "add_to_cart": "कार्टमा थप्नुहोस्",
+    "customer_reviews": "ग्राहक समीक्षाहरू",
+    "write_review": "समीक्षा लेख्नुहोस्",
+    "read_reviews": "समीक्षाहरू पढ्नुहोस्",
+    "add_review": "समीक्षा थप्नुहोस्",
+    "submit_review": "समीक्षा पेश गर्नुहोस्",
+    "review_rating": "रेटिङ र समीक्षा",
+    "most_helpful_reviews": "सबैभन्दा उपयोगी समीक्षाहरू"
+  },
+  "cart": {
+    "cart": "कार्ट",
+    "cart_empty": "तपाईंको कार्ट खाली छ।",
+    "view_cart": "कार्ट हेर्नुहोस्",
+    "checkout_now": "अहिले चेकआउट गर्नुहोस्",
+    "continue_shopping": "खरीदारी जारी राख्नुहोस्",
+    "item_added_to_cart": "उत्पादन कार्टमा सफलतापूर्वक थपिएको छ।"
+  },
+  "wishlist": {
+    "wishlist": "इच्छासूची",
+    "wishlist_empty": "तपाईंको इच्छासूची खाली छ।",
+    "add_to_wishlist": "इच्छासूचीमा थप्नुहोस्",
+    "remove_from_wishlist": "इच्छासूचीबाट हटाउनुहोस्"
+  },
+  "vendor": {
+    "vendor_store": "विक्रेता स्टोर",
+    "view_store": "स्टोर हेर्नुहोस्",
+    "contact_vendor": "विक्रेतालाई सम्पर्क गर्नुहोस्",
+    "vendor_products": "विक्रेताका उत्पादनहरू",
+    "seller_info": "विक्रेता जानकारी",
+    "seller_rating": "विक्रेता रेटिङ"
+  },
+  "checkout_order": {
+    "checkout": "चेकआउट",
+    "order_summary": "अर्डर सारांश",
+    "payment_method": "भुक्तानी विधि",
+    "shipping_address": "शिपिंग ठेगाना",
+    "apply_coupon": "कूपन लागू गर्नुहोस्",
+    "coupon_code": "कूपन कोड",
+    "discount": "छूट",
+    "subtotal": "उप-योगफल",
+    "order_placed": "अर्डर राखिएको छ।",
+    "order_confirmed": "अर्डर पुष्टि गरिएको छ।",
+    "order_shipped": "अर्डर पठाइएको छ।",
+    "order_delivered": "अर्डर डेलिभर गरिएको छ।",
+    "order_cancelled": "अर्डर रद्द गरिएको छ।"
+  },
+  "shipping": {
+    "address": "शिपिंग ठेगाना",
+    "method": "शिपिंग विधि",
+    "standard": "मानक शिपिंग",
+    "express": "एक्सप्रेस शिपिंग",
+    "free": "निःशुल्क शिपिंग",
+    "cost": "शिपिंग लागत",
+    "estimated_delivery": "अनुमानित डेलिभरी",
+    "delivery_by": "द्वारा डेलिभरी",
+    "multiple_shipments": "बहु शिपमेन्टहरू"
+  },
+  "payment": {
+    "select_method": "भुक्तानी विधि चयन गर्नुहोस्",
+    "credit_card": "क्रेडिट कार्ड",
+    "paypal": "पेपाल",
+    "bank_transfer": "बैंक ट्रान्सफर",
+    "cash_on_delivery": "क्यास अन डेलिभरी",
+    "successful": "भुक्तानी सफल भयो।",
+    "failed": "भुक्तानी असफल भयो।",
+    "pending": "भुक्तानी पर्खाइमा छ।",
+    "refunded": "भुक्तानी फिर्ता गरिएको छ।"
+  },
+  "order_history": {
+    "order_history": "अर्डर इतिहास",
+    "track_order": "अर्डर ट्र्याक गर्नुहोस्",
+    "reorder": "फेरि अर्डर गर्नुहोस्",
+    "order_details": "अर्डर विवरण"
+  },
+  "returns": {
+    "return_policy": "फिर्ता नीति",
+    "instructions": "फिर्ता निर्देशनहरू",
+    "request": "फिर्ता अनुरोध",
+    "status": "फिर्ता स्थिति",
+    "refund": "फिर्ता रकम"
+  },
+  "notifications": {
+    "notifications": "सूचनाहरू",
+    "new_notification": "नयाँ सूचना",
+    "mark_as_read": "पढिएको रूपमा चिन्ह लगाउनुहोस्",
+    "clear_all": "सबै मेटाउनुहोस्",
+    "settings": "सूचना सेटिङहरू"
+  },
+  "promotions": {
+    "special_offers": "विशेष अफरहरू",
+    "limited_time": "सीमित समयको लागि",
+    "discounts": "छूटहरू",
+    "sale": "बिक्री",
+    "new_user_discount": "नयाँ प्रयोगकर्ता छूट",
+    "coupon_applied": "कूपन लागू गरियो।"
+  },
+  "misc": {
+    "recently_viewed": "हालै हेरेका उत्पादनहरू",
+    "recommended_for_you": "तपाईंका लागि सिफारिस गरिएका",
+    "best_sellers": "सर्वश्रेष्ठ विक्रेताहरू",
+    "new_arrivals": "नयाँ आगमनहरू",
+    "language": "भाषा",
+    "theme": "थीम",
+    "dark_mode": "डार्क मोड",
+    "light_mode": "लाइट मोड",
+    "language_changed": "भाषा परिवर्तन गरिएको छ।",
+    "theme_changed": "थीम परिवर्तन गरिएको छ।",
+    "dark_mode_enabled": "डार्क मोड सक्षम गरिएको छ।",
+    "light_mode_enabled": "लाइट मोड सक्षम गरिएको छ।"
+  },
+  "footer": {
+    "contact_us": "हामीलाई सम्पर्क गर्नुहोस्",
+    "privacy_policy": "गोपनीयता नीति",
+    "terms_of_service": "सेवाको सर्तहरू",
+    "faq": "प्रश्नोत्तर",
+    "about_us": "हाम्रोबारे",
+    "help_center": "सहायता केन्द्र",
+    "cookie_policy": "कुकी नीति",
+    "newsletter_signup": "न्यूजलेटरमा साइन अप गर्नुहोस्",
+    "subscribe": "सदस्यता लिनुहोस्",
+    "unsubscribe": "सदस्यता रद्द गर्नुहोस्",
+    "email_address": "इमेल ठेगाना",
+    "all_rights_reserved": "सबै अधिकार सुरक्षित।"
+  },
+  "social_media": {
+    "follow_us": "हामीलाई फलो गर्नुहोस्",
+    "share": "सेयर गर्नुहोस्",
+    "like": "लाइक गर्नुहोस्",
+    "comment": "टिप्पणी गर्नुहोस्"
+  },
+  "feedback": {
+    "title": "प्रतिक्रिया",
+    "submit": "प्रतिक्रिया पेश गर्नुहोस्",
+    "thank_you": "धन्यवाद",
+    "your_feedback": "तपाईंको प्रतिक्रिया"
+  },
+  "status_messages": {
+    "unsaved_changes": "तपाईंका केही परिवर्तनहरू बचत गरिएको छैन।",
+    "session_expired": "तपाईंको सत्र समाप्त भएको छ। कृपया पुन: लगइन गर्नुहोस्।",
+    "low_stock": "स्टक कम छ। कृपया चाँडै अर्डर गर्नुहोस्।",
+    "maintenance_mode": "वेबसाइट मर्मतमा छ। कृपया पछि फेरि प्रयास गर्नुहोस्।",
+    "new_features": "हामीले नयाँ सुविधाहरू थपेका छौं!",
+    "upcoming_events": "आउँदो घटनाहरूमा सहभागी हुनुहोस्!"
+  },
+  "error_messages": {
+    "page_not_found": "पृष्ठ फेला परेन।",
+    "internal_server_error": "आन्तरिक सर्भर त्रुटि।",
+    "no_internet": "इन्टरनेट जडान छैन।",
+    "network_error": "नेटवर्क त्रुटि। कृपया पुन: प्रयास गर्नुहोस्।",
+    "form_validation_error": "फारम मान्यकरण त्रुटि। कृपया सबै क्षेत्रहरू सही ढंगले भर्नुहोस्।"
+  }
+}

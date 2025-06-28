@@ -1,0 +1,23 @@
+{
+  "categories": "श्रेणीहरू",
+  "cart": "कार्ट",
+  "account": "खाता",
+  "install_app": "एप स्थापना गर्नुहोस्",
+  "install_ios_guide": "स्थापना गर्न, सेयर > होम स्क्रिनमा थप्नुहोस्।",
+  "search_placeholder": "उत्पादनहरू खोज्नुहोस् (जस्तै, ढाका टोपी)",
+  "search_placeholder_mobile": "उत्पादनहरू खोज्नुहोस्",
+  "search_no_results": "कुनै उत्पादन फेला परेन",
+  "login_title": "लगइन वा साइन अप",
+  "email_placeholder": "इमेल",
+  "password_placeholder": "पासवर्ड",
+  "login": "लगइन",
+  "sign_up": "साइन अप",
+  "settings_title": "सेटिङहरू",
+  "language": "भाषा",
+  "english": "अंग्रेजी",
+  "nepali": "नेपाली",
+  "theme": "थिम",
+  "light": "उज्यालो",
+  "dark": "अँध्यारो",
+  "close": "बन्द गर्नुहोस्"
+}
